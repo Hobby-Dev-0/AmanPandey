@@ -26,33 +26,3 @@ p{
 hr{
   width:50px;
 }
-#skills{
-  height: 500px;
-  background-color: #e8e8e8;
-  padding-top: 50px;
-}
-.container-bar {
-  width: 80%;
-  background-color: #fff;
-  margin: 10px auto;
-}
-.skills {
-  text-align: right;
-  padding-bottom: 10px;
-  padding-top: 10px;
-  padding-right: 10px;
-  color: white;
-}
-
-.html {
-  width:90%;
-  background-color: red;
-}
-.css {
-  width: 80%;
-  background-color: green;
-}
-.js {
-  width:60%;
-  background-color: yellow;
-}
