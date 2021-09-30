@@ -51,15 +51,20 @@ a:hover{
   padding-right: 10px;
   color: white;
 }
+
+.python {
+  width:98%;
+  background-color: violet;
+}
 .html {
   width:90%;
   background-color: red;
 }
 .css {
-  width: 80%;
-  background-color: green;
+  width: 73%;
+  background-color: blue;
 }
 .js {
-  width:60%;
+  width:86%;
   background-color: yellow;
 }
