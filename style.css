@@ -5,9 +5,6 @@ img{
 body {
   background: white;
   text-align: center;
-  margin: 0;
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
 }
 h1 {
   font-weight: bold;
@@ -29,14 +26,6 @@ p{
 hr{
   width:50px;
 }
-a{
-    text-decoration: none;
-    color: #009ea3;
-}
-a:hover{
-    color: #3c00a3;
-}
-
 a{
     text-decoration: none;
     color: #009ea3;
