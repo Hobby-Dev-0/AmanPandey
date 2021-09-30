@@ -3,9 +3,31 @@ img{
     height: 100%;
 }
 body {
-    margin: 0;
-    font-family: 'Raleway', sans-serif;
-    text-align: center;
+  background: white;
+  text-align: center;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+}
+.mainDiv{
+  padding: 50px 20px;
+  font-family:sans-serif;
+  color: white;
+}
+#htmlDiv{
+  background-color: black;
+}
+#cssDiv{
+  background-color:crimson;
+}
+p{
+  line-height: 1.8;
+}
+hr{
+  width:50px;
 }
 .flex-container {
     display: flex;
