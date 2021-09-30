@@ -3,30 +3,6 @@ img{
     height: 100%;
 }
 body {
-  background: white;
-  text-align: center;
-}
-h1 {
-  font-weight: bold;
-}
-.mainDiv{
-  padding: 50px 20px;
-  font-family:sans-serif;
-  color: white;
-}
-#htmlDiv{
-  background-color: black;
-}
-#cssDiv{
-  background-color:crimson;
-}
-p{
-  line-height: 1.8;
-}
-hr{
-  width:50px;
-}
-body {
     margin: 0;
     font-family: 'Raleway', sans-serif;
     text-align: center;
@@ -46,6 +22,7 @@ body {
 }
 h1{
     font-size: 40px;
+    font-weight: bold;
 }
 .flex-container span{
     font-family: 'Bree Serif', serif;
@@ -149,7 +126,7 @@ a:hover{
     color: #3c00a3;
 }
 
-#perf{
+#skills{
   height: 500px;
   background-color: #e8e8e8;
   padding-top: 50px;
@@ -159,17 +136,14 @@ a:hover{
   background-color: #fff;
   margin: 10px auto;
 }
-.perf {
+.skills {
   text-align: right;
   padding-bottom: 10px;
   padding-top: 10px;
   padding-right: 10px;
   color: white;
 }
-.python {
-    width:95%;
-    background-color: violet;
-}
+
 .html {
   width:90%;
   background-color: red;
@@ -177,6 +151,7 @@ a:hover{
 .css {
   width: 80%;
   background-color: green;
+}
 .js {
   width:60%;
   background-color: yellow;
