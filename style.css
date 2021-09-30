@@ -26,14 +26,6 @@ p{
 hr{
   width:50px;
 }
-a{
-    text-decoration: none;
-    color: #009ea3;
-}
-a:hover{
-    color: #3c00a3;
-}
-
 #skills{
   height: 500px;
   background-color: #e8e8e8;
