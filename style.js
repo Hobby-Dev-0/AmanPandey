@@ -5,8 +5,8 @@ function changecolor2(){
   document.getElementById("htmlDiv").style.color="white";
 }
 function changecolor3(){
-  document.getElementById("cssDiv").style.color="blue";
+  document.getElementById("cssDiv").style.color="blue", "white", "violet";
 }
 function changecolor4(){
-  document.getElementById("cssDiv").style.color="red";
+  document.getElementById("cssDiv").style.color="red", "green", "yellow", "white";
 }
