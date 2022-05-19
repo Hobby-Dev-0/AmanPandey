@@ -8,10 +8,10 @@ function changecolor3(){
   document.getElementById("cssDiv").style.color="red";
 }
 function changecolor4(){
-  document.getElementById("cssDiv").style.color="blue";
+  document.getElementById("cssDiv").style.color="yellow";
 }
 function changecolor5() {
-  docuement.getElementById("cssDiv").style.color="green";
+  docuement.getElementById("cssDiv").style.color="silver";
 }
 
 function changecolor6(){
