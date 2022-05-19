@@ -13,3 +13,7 @@ function changecolor4(){
 function changecolor5() {
   docuement.getElementById("cssDiv").style.color="green";
 }
+
+function changecolor6(){
+  document.getElementById("htmlDiv").style.color="silver";
+}
